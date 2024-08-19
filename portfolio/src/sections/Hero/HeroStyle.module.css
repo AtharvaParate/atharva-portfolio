@@ -4,7 +4,7 @@
   justify-content: center;
   gap: 20px;
   text-align: center;
-  height: 80dvh;
+  height: 100dvh;
   min-height: 500px;
 
   .hero {
@@ -74,7 +74,6 @@
 .info {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   gap: 20px;
 }
 
